@@ -1,0 +1,10 @@
+team.cs create - Roli
+team.cs mód. - Dani
+
+match.cs create - Roli
+match.cs mód. - Dani
+
+league.cs create - Dani
+league.cs mód. - Roli
+
+prog.cs - Roli
